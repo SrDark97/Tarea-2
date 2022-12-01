@@ -32,6 +32,8 @@ Amperes-hora nominales de baterías
 
 Los ampere-hora nominales significan que la batería puede suministrar un promedio de un ampere de corriente hacia una carga durante una hora con la salida de voltaje nominal
 
+------------------------------------------------------
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPITULO 3
@@ -69,7 +71,9 @@ I=50mA
 8) Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro
 
 Resistencia= 8200Ω±5% = 8,2K Ω±5%
+
 ![image](https://user-images.githubusercontent.com/116821721/204969485-7fea8d09-bd07-46d7-9736-371617ff0f72.png)
+
 10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
 I=V/R
@@ -157,7 +161,9 @@ g)I=850µA, R=10MΩ
 V=850V
 
 26)Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas
+
 ![image](https://user-images.githubusercontent.com/116821721/204969540-b77296e8-dc91-47d6-bf64-b9000412c540.png)
+
 Utilizando la formula V=I*R
 
 a)(3mA)*(27kΩ)=(3x10-3A) * (27x103Ω)=81V
@@ -209,6 +215,7 @@ R=120V/2A = 60Ω
 R=60Ω-15Ω= 45Ω
 
 36)En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
+
 ![image](https://user-images.githubusercontent.com/116821721/204969573-618cb292-cb63-4540-a61b-41a532e0f39e.png)
 
 ----------------------------------------------------------
@@ -330,6 +337,7 @@ P=1.470588235x10-8W
 28)En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto
 
 ![image](https://user-images.githubusercontent.com/116821721/204969609-778a65a0-7d8c-4d3f-a990-7f2bb2d40e02.png)
+
 30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
 I=V/R
@@ -370,7 +378,7 @@ Se cumple que el valor de salida es menor al valor de entrada
 
 4)Video
 
-https://youtu.be/Osvq5oC-_OU
+https://youtu.be/7lIMA9G7T0k
 
 --------------------------------------------------------
 
